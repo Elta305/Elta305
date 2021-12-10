@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elta305
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python in high school.
-- 💞️ I’m creating a social network with 2 classmates for a class project.
+- 🌱 I’m currently learning Python at University.
+- 💞️ I’m have created a social network with 2 classmates for a class project.
 - 🖥️ I'm coding a discord bot for my private server.
 - 📫 I can't be reached for now.
 
