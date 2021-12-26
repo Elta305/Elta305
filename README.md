@@ -49,7 +49,7 @@
 
 <p align="center">
 <a href="https://elta305.github.io/frederic.licombeau/"><img alt="Website" src="https://img.shields.io/badge/Website-https://elta305.github.io/frederic.licombeau/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:fredlicombeau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-afredlicombeau@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:fredlicombeau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fredlicombeau@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Elta305](https://github.com/Elta305)
