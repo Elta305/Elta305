@@ -32,9 +32,7 @@
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Paint.net-333333?style=flat&logo=paint.net)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Paint.net](https://img.shields.io/badge/-Paint.net-333333?style=flat&logo=paint.net)
 
 <br/>
 
