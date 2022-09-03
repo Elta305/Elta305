@@ -5,14 +5,14 @@
 - 🤔 &nbsp; Exploring new technologies and developing many applications.
 - 🎓 &nbsp; Studying computer science at Université Paris-Saclay, 13th world university.
 - 💼 &nbsp; Not Working yet.
-- 🌱 &nbsp; Learning more about C and Deep Learning with Python.
+- 🌱 &nbsp; Learning more about C++ and Deep Learning with Python.
 - ✍️ &nbsp; Pursuing Composing music and Writing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C++)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
