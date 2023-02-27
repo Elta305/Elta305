@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing many applications.
-- 🎓 &nbsp; Studying computer science at Université Paris-Saclay, 13th world university.
+- 🎓 &nbsp; Studying computer science at Université Paris-Saclay.
 - 💼 &nbsp; Not Working yet.
 - 🌱 &nbsp; Learning more about C++ and Deep Learning with Python.
 - ✍️ &nbsp; Pursuing Composing music and Writing as hobbies.
