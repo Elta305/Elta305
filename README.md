@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing many applications.
 - 🎓 &nbsp; Studying computer science at Université Paris-Saclay.
 - 💼 &nbsp; Not Working yet.
-- 🌱 &nbsp; Learning more about C++ and Deep Learning with Python.
+- 🌱 &nbsp; Learning more about C++, Simulation and Deep Learning with Python.
 - ✍️ &nbsp; Pursuing Composing music and Writing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
