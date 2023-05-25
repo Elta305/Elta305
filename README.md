@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing many applications.
-- 🎓 &nbsp; Studying computer science at Université de Versailles Paris-Saclay.
+- 🎓 &nbsp; Studying computer science at Université de Versailles Paris-Saclay.\n
             Studying artificial intelligence with the Paris-Saclay AI Master for fun (With courses available on teachers' websites)
 - 💼 &nbsp; Not Working yet.
 - 🌱 &nbsp; Learning more about C++, Simulation and Deep Learning with Python.
