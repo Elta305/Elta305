@@ -12,15 +12,17 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=Discord&logoColor=007396)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+  ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=Discord&logoColor=007396)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
