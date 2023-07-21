@@ -36,6 +36,8 @@
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 - 🖥 &nbsp;
   ![Paint.net](https://img.shields.io/badge/-Paint.net-333333?style=flat&logo=paint.net)
+  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe-Photoshop-31A8FF?style=flat&logo=adobephotoshop)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe-Premiere-Pro-9999FF?style=flat&logo=adobepremierepro)
 
 <br/>
 
