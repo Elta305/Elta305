@@ -24,12 +24,12 @@
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=8A2BE2)
