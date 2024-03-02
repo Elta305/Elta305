@@ -1,12 +1,12 @@
-<h2> Hey there! I'm Elta.</h2>
+<h2> Hey there! I'm Frédéric Li Combeau.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing many applications.
 - 🎓 &nbsp; Studying computer science at Université de Versailles Paris-Saclay.
-- 🎓 &nbsp; Studying artificial intelligence with the Paris-Saclay AI Master for fun (With courses available on teachers' websites)
+- 🎓 &nbsp; Studying artificial intelligence with the Paris-Saclay AI and Sorbonne DAC Master for fun (With courses available on teachers' websites)
 - 💼 &nbsp; Not Working yet.
-- 🌱 &nbsp; Learning more about C++, Simulation and Deep Learning with Python.
+- 🌱 &nbsp; Learning more about Deep Learning, Algorithmic and Simulation.
 - ✍️ &nbsp; Pursuing Composing music and Writing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
