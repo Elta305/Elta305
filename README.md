@@ -50,6 +50,8 @@
 
 <h3> 📚 &nbsp;My recommandations </h3>
 
+- The Art of Computer Programming - Donald E. Knuth
+
 - Introduction to Algorithms, 3rd Edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
 - An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor
