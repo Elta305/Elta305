@@ -48,6 +48,16 @@
 
 <br/>
 
+<h3> 📚 &nbsp;My recommandations </h3>
+
+- Introduction to Algorithms, 3rd Edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+
+- An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor
+
+- Artificial Intelligence - A modern approach, 4ème édition - Stuart Russel, Peter Norvig
+
+- Dive into Deep Learning - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola - https://d2l.ai/index.html
+
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
 <p align="center">
