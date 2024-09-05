@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing many applications.
-- 🎓 &nbsp; Studying computer science at Université de Versailles Paris-Saclay.
-- 🎓 &nbsp; Studying artificial intelligence with the Paris-Saclay AI and Sorbonne DAC Master for fun (With courses available on teachers' websites)
+- 🎓 &nbsp; Studying AI at Sorbonne University.
+- 🎓 &nbsp; Studying AI with Artificial Intelligence, a modern approach by Stuart Russel and Peter Norvig.
 - 💼 &nbsp; Not Working yet.
 - 🌱 &nbsp; Learning more about Deep Learning, Algorithmic and Simulation.
 - ✍️ &nbsp; Pursuing Composing music and Writing as hobbies.
