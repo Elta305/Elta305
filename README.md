@@ -14,6 +14,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -48,7 +49,7 @@
 
 <br/>
 
-<h3> 📚 &nbsp;My recommandations </h3>
+<h3> 📚 &nbsp;To read</h3>
 
 - The Art of Computer Programming - Donald E. Knuth
 
@@ -63,7 +64,6 @@
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
 <p align="center">
-<a href="https://elta305.github.io/frederic.licombeau/"><img alt="Website" src="https://img.shields.io/badge/Website-https://elta305.github.io/frederic.licombeau/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:fredlicombeau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fredlicombeau@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
