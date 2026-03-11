@@ -4,9 +4,10 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing many applications.
 - 🎓 &nbsp; Studying AI at Sorbonne University.
-- 🎓 &nbsp; Studying AI with Artificial Intelligence, a modern approach by Stuart Russel and Peter Norvig.
+- 🎓 &nbsp; Intern at ETH Zürich from March to August 2026.
+- 🎓 &nbsp; Intern at the University of Tokyo from June to September 2025.
 - 💼 &nbsp; Not Working yet.
-- 🌱 &nbsp; Learning more about Deep Learning, Algorithmic and Simulation.
+- 🌱 &nbsp; Learning more about World Models, Generative AI and Deep Learning.
 - ✍️ &nbsp; Pursuing Composing music and Writing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
